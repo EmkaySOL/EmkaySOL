@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EmkaySOL/EmkaySOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Emkay 👋
 
-Here are some ideas to get you started:
+Backend developer | AI engineer | Automation Specialist | Blockchain Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[X (@eMkaySOL)](https://x.com/eMkaySOL)[LInkedin (@PreciousSamuel)](https://www.linkedin.com/in/precious-samuel-514b3b313/
+)  [Email](mailto:preciousakpe266@gmail.com)
+
+</div>
+
+## About me
+- Software Engineering student at the University of Uyo, Nigeria
+- Primarily a backend developer, now expanding into system (Android/Kotlin)
+- Currently building towards AI engineering: Python, NumPy, Pandas, PyTorch
+- Open to backend roles, internships and collaborations
+
+## Tech I use
+Python, FastAPI, Django, Rust, Java, SQL, Node.js, Kortlin
+
+**AI and automation:** OpenAI and Anthropic APIs, Zapier, n8n, Make
+
+## What I've built
+- **EduSubmit**: Android app in Kotlin (Gradle KTS + KSP)
+- **Colosseum Solana AI x Mobile Hackathon**: solo entry; built the agent logic and deployment and shipped a working demo
+- **HNG AI Engineering cohort**: building and deploying AI-assisted projects on the advanced team
+- **DeployCheck**: pre-deployment checker for developers. Look for hardcoded credentials, missing environment-variable declarations, and a few common configuration risks.
+
+
+## Certificates
+IBM SkillsBuild (AI Fundamentals, AI Literacy), frica's AI Capacity Building Initiative (AI Automation Fundamentals), DigitalTraining Academy (Advanced Agentic AI)
