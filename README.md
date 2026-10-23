@@ -16,7 +16,7 @@ Backend developer | AI engineer | Automation Specialist | Blockchain Developer.
 - Open to backend roles, internships and collaborations
 
 ## Tech I use
-Python, FastAPI, Django, Rust, Java, SQL, Node.js, Kortlin
+Python, FastAPI, Django, Rust, Java, Node.js
 
 **AI and automation:** OpenAI and Anthropic APIs, Zapier, n8n, Make
 
