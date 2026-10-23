@@ -18,7 +18,7 @@ Backend developer | AI engineer | Automation Specialist | Blockchain Developer.
 ## Tech I use
 Python, FastAPI, Django, Rust, Java, Node.js
 
-**AI and automation:** OpenAI and Anthropic APIs, Zapier, n8n, Make
+**AI and automation:** OpenAI and Anthropic APIs, Zapier, n8n
 
 ## What I've built
 - **EduSubmit**: Android app in Kotlin (Gradle KTS + KSP)
